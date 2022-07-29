@@ -1,5 +1,7 @@
-print("hola mundo") 
+print("hola mundo ")  
 
-print ("hola") 
+print("hola")
 
-print ("lunes")
+print("lunes")
+
+print("martes")
